@@ -16,7 +16,7 @@ public class Application
         System.out.println(cat1.getMeow() == cat2.getMeow());
 
         System.out.println("Количество созданных котиков: " + Kotik.getCount());
-        
+
 
 
 

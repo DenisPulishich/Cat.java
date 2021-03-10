@@ -4,15 +4,15 @@ import java.util.Random;
 public class Kotik
 
 {
-    private double originWeight;
-    private double weight;
+    private Double originWeight;
+    private Double weight;
     private String name;
     private String Meow;
     //сытость котика
     private double catSatiety;
 
-    private final double MIN_WEIGHT = 1000.0;;
-    private final double MAX_WEIGHT = 9000.0;;
+    private final Double MIN_WEIGHT = 1000.0;;
+    private final Double MAX_WEIGHT = 9000.0;;
     // Счет созданных котов
     private static int count;
 
