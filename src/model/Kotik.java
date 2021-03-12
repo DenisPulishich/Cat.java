@@ -6,7 +6,7 @@ public class Kotik {
     private Double weight;
     private String name;
     private String Meow;
-    //сытость котика
+    //Сытость котика
     private double catSatiety;
 
     private final Double MIN_WEIGHT = 1000.0;
